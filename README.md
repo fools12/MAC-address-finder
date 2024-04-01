@@ -14,3 +14,6 @@ This script has been confirmed to work with Aruba 6200F Switches running CX-10.1
 This script has been confirmed to work with Cisco 2960 series switches running 15.2(4)E7
 
 Working as of 4/1/24
+
+
+This script can be compiled to run in a standalone executable file.
